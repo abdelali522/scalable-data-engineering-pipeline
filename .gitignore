@@ -1,0 +1,7 @@
+venv/
+data-lake/
+source_data/
+pycache/
+*.parquet
+*.csv
+.vscode/
